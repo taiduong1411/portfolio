@@ -25,7 +25,7 @@ export const mainSkills = [
     name: "Lark Platform",
     icon: "/icons/Lark_Suite_logo_2022.png",
     color: "from-emerald-600 to-teal-600",
-    description: "Chuyên gia về Lark Base, Workflow, API và Automation",
+    description: "Có kinh nghiệm về Lark Suite, Workflow, API và Automation",
     gradient: "from-emerald-500/20 to-teal-500/20",
   },
   {
